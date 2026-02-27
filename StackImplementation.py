@@ -1,4 +1,14 @@
-#Now I will create a organized way to insert the data and pop the data using the user command
+"""
+Stack Implementation in Python
+Author:Rithik Linkon Penaru
+Description:
+    - Push elements into stack
+    - Pop elements from stack
+    - Demonstrates LIFO principle
+Time Complexity:
+    Push: O(1)
+    Pop: O(1)
+"""
 
 stack = []
 
@@ -44,6 +54,7 @@ if stack:
 
 else:
     print("Nothing to be deleted..")
+
 
 
 
