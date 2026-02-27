@@ -1,4 +1,4 @@
-# Queue uses FIFO meaning Last In First Out.
+# Queue uses FIFO meaning First In First Out.
 # Queue using List
 
 queue = []
@@ -19,4 +19,5 @@ print(queue)
 remove = queue.pop(0)
 print("Removed element: ",remove)
 print(queue)
+
 
